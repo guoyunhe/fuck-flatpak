@@ -1,2 +1,3 @@
-# fuck-flatpak
+# Fuck Flatpak
+
 Flatpak sucks. And here is why.
