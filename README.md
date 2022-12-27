@@ -2,7 +2,7 @@
 
 Flatpak sucks. And here is why.
 
-## Flatpak is huge!
+## Waste of storage
 
 Let's install yuzu, a popular open source Nintendo Switch emulator. It is written in C++ and uses Qt as front-end.
 
